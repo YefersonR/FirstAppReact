@@ -1,0 +1,16 @@
+.gif{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #cacaca ;
+    padding: 20px;
+    margin: 10px;
+    color: #fff;
+    text-decoration: none;  
+    width: 400px;
+    height: 400px;
+}
+.gif img{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
